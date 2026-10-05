@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Booksystem/Booksystem.vcxproj" Id="2405b27f-fd04-4ee9-9f75-1bf154d5cfa0" />
+</Solution>
